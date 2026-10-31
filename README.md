@@ -1,6 +1,6 @@
 ## Hi,I'm Pavani Kalyani👋
 
-Student | Developer | Problem Solver
+Developer | Problem Solver
 
 I build projects that challenge me and push boundaries. Always learning, experimenting, and questioning assumptions to create clean, efficient, and impactful code.
 
